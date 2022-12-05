@@ -1,0 +1,136 @@
+-------------------------------------------_________________Job Description _____________________________________----------------------------------------
+
+Write a Resume and COVER LETTER for the Job Description.
+
+Site Reliability Engineer
+Responsibilities
+
+Provide engineering and operational support for a highly visible Identity platform  
+Drive increased efficiencies through automation  
+Own, triage, investigate and resolve service issues  
+Constantly focus on innovation to enable product improvements  
+Communicate and collaborate with stakeholders and team members effectively  
+Remain current on new technologies, methods and procedures, while highly customer focused 
+Respond to and resolve emergent service problems and build automation to prevent problem recurrence. 
+Highly effective communication and collaboration across teams 
+Troubleshoot and root cause issues across Identity service offerings and components to ensure SLAs are met. 
+Understand, and reason about, interactions between complex systems
+Measure, calculate, and improve service performance by driving scalable solutions back into the service 
+Drive bugs/DCRs related to problem management tickets 
+Document processes, best methodologies and technical instructions for Support Groups based off the problem management findings 
+
+Qualifications
+
+3 years of Expert-level knowledge on identity technologies: Azure Active Directory, Active Directory, Federation Services, Credential management 
+3 years of Strong knowledge on PowerShell/Scripting Knowledge, Windows Services infrastructure to automate day to day activities. 
+Proven experience with large scale Identity management  
+Strong customer focus and understand the importance of Live Site  
+Experience in supporting engineering/supporting Multi-Factor Authentication 
+Extensive troubleshooting/debug experience .  
+Solid understanding of monitoring, alerting, and observability philosophies and best practices.  
+Ability to analyze, decompose, design, and integrate systems or systems architectures.  
+Collaborating first and foremost; ability to exercise cross-team co-operation and influence.  
+Ability to have empathy for any customer or partner and keep a higher-level perspective.  
+Bachelor’s degree in computer science or equivalent work experience 
+Deep understanding of the technical concepts relevant to technologies Azure, Identity and Access management 
+Familiarity and demonstrated experience with SaaS, Single Sign On, Multifactor authentication solutions  
+Experience with network tracing and troubleshooting (i.e. Fiddler, Wireshark and Netmon)  
+Proven experience with troubleshooting authentication and connectivity issues 
+Proficiency with one or more general purpose programming languages and/or scripting languages –PowerShell, Kusto Query Language. Other languages like C#, JavaScript will be an added advantage to this role 
+ 
+
+Preferred
+
+Familiarity with Agile,SDL & SRE principles 
+Phish resistant certificate-based authentication and/or Azure AD Multi-Factor Authentication (Microsoft Authenticator app, Windows Hello for Business ,FIDO2 security key,OATH hardware/software token 
+Programming experience with C# 
+Experience with Windows Conditional Access policies and multifactor authentication 
+The ability to analyze problems and make appropriate decisions quickly 
+Excellent interpersonal and group dynamic skills 
+Strong written & verbal communication and presentation 
+
+-------------------------------------------_________________Answer :_____________________________________----------------------------------------
+
+-------------------------------------------_________________ Resume:_____________________________________----------------------------------------
+
+RESUME
+
+Name: 
+Address: 
+Phone: 
+Email: 
+
+Site Reliability Engineer
+
+Summary
+
+I am a Site Reliability Engineer with 3 years of experience in the industry. I am highly skilled in Azure Active Directory, Active Directory, Federation Services, Credential management and PowerShell/Scripting Knowledge. I am a customer-focused professional and have a solid understanding of monitoring, alerting, and observability philosophies and best practices. I am an effective communicator and collaborator and have strong interpersonal skills. 
+
+Experience
+
+Identity Engineer | ABC Solutions | Jan 2018 - Present
+
+•	Provide engineering and operational support for a highly visible Identity platform.
+•	Drive increased efficiencies through automation. 
+•	Own, triage, investigate and resolve service issues. 
+•	Constantly focus on innovation to enable product improvements. 
+•	Communicate and collaborate with stakeholders and team members effectively. 
+•	Respond to and resolve emergent service problems and build automation to prevent problem recurrence. 
+•	Highly effective communication and collaboration across teams. 
+•	Troubleshoot and root cause issues across Identity service offerings and components to ensure SLAs are met. 
+•	Understand, and reason about, interactions between complex systems. 
+•	Measure, calculate, and improve service performance by driving scalable solutions back into the service. 
+•	Drive bugs/DCRs related to problem management tickets. 
+•	Document processes, best methodologies and technical instructions for Support Groups based off the problem management findings. 
+
+Systems Engineer | XYZ Solutions | Oct 2016 - Sept 2018
+
+•	Provide technical support for a wide range of software, hardware, and network systems. 
+•	Design, develop, and maintain new and existing system solutions. 
+•	Monitor and maintain system performance to ensure optimal performance. 
+•	Analyze system requirements and develop solutions accordingly. 
+•	Troubleshoot system issues and provide solutions quickly. 
+•	Develop and implement security policies and procedures. 
+•	Perform system upgrades and maintenance in a timely manner. 
+
+Education
+
+Bachelor’s Degree in Computer Science | University of ABC | 2015 - 2016
+
+Technical Skills 
+
+•	Identity Technologies: Azure Active Directory, Active Directory, Federation Services, Credential management 
+•	PowerShell/Scripting Knowledge 
+•	Windows Services Infrastructure 
+•	Large Scale Identity Management 
+•	Live Site 
+•	Multi-Factor Authentication 
+•	Troubleshooting/Debugging 
+•	Monitoring, Alerting, and Observability Philosophies 
+•	Systems Analysis and Integration 
+•	C# 
+•	SaaS, Single Sign On, Multifactor authentication solutions  
+•	Network Tracing and Troubleshooting (Fiddler, Wireshark, Netmon) 
+•	Agile, SDL & SRE Principles 
+•	Phish Resistant Certificate-Based Authentication 
+•	Windows Conditional Access Policies 
+•	Programming Languages (PowerShell, Kusto Query Language, C#, JavaScript) 
+
+-------------------------------------------_________________Cover Letter _____________________________________----------------------------------------
+
+Cover Letter
+
+Dear Hiring Manager, 
+
+I am writing to apply for the Site Reliability Engineer position at your company. 
+
+I am a highly experienced engineer with 3 years of expertise in Identity technologies: Azure Active Directory, Active Directory, Federation Services, Credential management. I also have an in-depth knowledge of PowerShell/Scripting Knowledge and Windows Services infrastructure. I am a customer-focused professional and have a solid understanding of monitoring, alerting, and observability philosophies and best practices. I am an effective communicator and collaborator and have strong interpersonal skills. 
+
+I am confident that I can provide the necessary engineering and operational support for a highly visible Identity platform. I have the ability to analyze, decompose, design, and integrate systems or systems architectures. I am also familiar with Agile, SDL & SRE principles, Phish resistant certificate-based authentication, Windows Conditional Access policies, programming languages (PowerShell, Kusto Query Language, C#, JavaScript), etc. 
+
+My experience, coupled with my enthusiasm and determination, makes me an ideal candidate for this role. I am confident that I can make a positive and meaningful contribution to your team. 
+
+Thank you for your time and consideration and I look forward to hearing from you. 
+
+Sincerely, 
+[Your Name]
