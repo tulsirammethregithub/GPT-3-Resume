@@ -1,0 +1,79 @@
+-------------------------------------------_________________Job Description _____________________________________----------------------------------------
+SITE RELIABILITY ENGINEER
+Hyderabad
+Build a Resume for Based on the Below  Qualifications:
+
+Qualifications:
+Design, write and deliver software and infrastructure to improve the reliability, scalability, latency, and efficiency of your services.
+• Solve problems relating to mission critical services and create solutions to prevent problem recurrence, with the goal of automating response to all non-exceptional service conditions.
+• Influence and create new designs, architectures, standards and methods for large-scale distributed systems.
+• Engage in service capacity planning and demand forecasting, service integration and geo-expansion, software performance analysis and system tuning.
+• Conduct periodic on call duties.
+• Ability to build and drive consensus towards common goals and priorities through advanced impact and influence skills.
+• BS Degree in Computer Science, Electrical & Computer Engineering or Mathematics or equivalent experience.
+• 4+ years of experience and outstanding coding skills in at least one of the object-oriented computer languages: C#, C++/C, or Java.
+• 1+ years of experience in software architecture and design.
+• 2+ years of Software Engineering and experience in testing, deploying and supporting large scale services on Azure, AWS or similar environments.
+• Experience in SDLC, distributed systems, networking, hardware, logistics and operations or capacity planning.
+• Expertise in problem solving and analysing global scale distributed systems and critical production service environments.
+• Strong debugging, testing / validation and analytics/SQL skills.
+• Experience defining and measuring internal/customer facing OLA/SLAs.
+• 1+ years of Data modeling Machine learning basic foundations experience.
+• One amongst - full-stack web development experience, or experience in improving the fundamentals of web/application/cloud platform(s).
+• Broad understanding of the web platform, web developer workflows, and web tools ecosystem.
+• Passion for working with customers and advocating for their requirements to be met by features.
+
+
+
+-------------------------------------------_________________Answer :_____________________________________----------------------------------------
+
+-------------------------------------------_________________ Resume:_____________________________________----------------------------------------
+
+Resume
+
+John Doe
+123 Main Street, Anytown, ST 12345
+(123) 456-7890 | john.doe@email.com
+
+SUMMARY
+
+Highly experienced Software Engineer with 8+ years of experience in software architecture and design, distributed systems, networking, hardware, logistics and operations, and capacity planning. Proven track record of designing, writing, and delivering software and infrastructure to improve reliability, scalability, latency, and efficiency of services. Skilled in problem solving and analyzing global scale distributed systems and critical production service environments.
+
+TECHNICAL SKILLS
+
+• Programming Languages: C#, C++/C, Java, SQL
+• Platforms: Azure, AWS
+• Web Development: Full-stack web development, web platform, web developer workflows, web tools ecosystem
+• Data Modeling: Machine learning basic foundations
+• Software Engineering: Testing, deploying, and supporting large scale services
+• SDLC: Software Development Life Cycle
+• Networking: Hardware, logistics, and operations
+• Problem Solving: Analyzing global scale distributed systems and critical production service environments
+
+
+EXPERIENCE
+
+Software Engineer
+ABC Corporation, Anytown, ST | June 2015 – Present
+
+• Design, write, and deliver software and infrastructure to improve reliability, scalability, latency, and efficiency of services.
+• Solve problems relating to mission critical services and create solutions to prevent problem recurrence, with the goal of automating response to all non-exceptional service conditions.
+• Influence and create new designs, architectures, standards and methods for large-scale distributed systems.
+• Engage in service capacity planning and demand forecasting, service integration and geo-expansion, software performance analysis and system tuning.
+• Conduct periodic on call duties.
+• Build and drive consensus towards common goals and priorities through advanced impact and influence skills.
+
+Software Developer
+XYZ Corporation, Anytown, ST | June 2012 – June 2015
+
+• Developed software applications and services for large-scale distributed systems.
+• Analyzed and tuned software performance and system tuning.
+• Developed and tested software applications and services.
+• Developed and maintained web applications and services.
+• Developed and maintained data models and machine learning basic foundations.
+
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+Anytown University, Anytown, ST | Graduated June 2012
