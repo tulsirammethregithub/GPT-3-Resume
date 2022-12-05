@@ -1,0 +1,99 @@
+-------------------------------------------_________________Job Description _____________________________________----------------------------------------
+
+Write a Resume and COVER LETTER for the below Job Description
+
+Job Description
+
+As a developer with the offers & benefits you will be instrumental in and responsible for designing and developing high quality applications and solutions that address business needs by delivering new capabilities to customers and merchants. This will include designing and developing or enhancing transaction processing applications, including building and testing of heterogeneous interfaces across the ecosystem.  The ideal candidate will be proficient with enterprise applications developed using Java, Spring framework, with hands on experience on Enterprise Integration Patterns. Candidates with exposure to Cassandra, Kafka will be preferred.
+
+ 
+
+Responsibilities:
+
+Design and Develop offers platform and applications
+Work closely with business analyst, quality assurance, and project management resources throughout delivery of solutions 
+Self-starter, independently takes initiative in driving assignments to completion and solving problems
+Proactively identify gaps in all processes, procedures, monitors, alerts, designs, etc. and provide recommendations on how to resolve
+ 
+
+Mandatory skills:
+
+8+ years’ experience with maven, Java, spring based micro-service application design and development
+Experience on messaging paradigms e.g. JMS or Kafka
+Experience on Unit testing and Integration testing framework
+Experience in Agile development lifecycle methodology
+Good analytical, communication and problem-solving skills
+ 
+
+Nice to have skills:
+
+Experience with Spark and Cassandra.
+Experience with GIT / BitBucket
+Experience with batch scheduling tools (like Control-M)
+Experience with CI/CD
+ 
+-------------------------------------------_________________Answer :_____________________________________----------------------------------------
+
+-------------------------------------------_________________ Resume:_____________________________________----------------------------------------
+
+John Doe 
+johndoe@example.com 
+555-555-5555 
+
+Summary 
+
+Seasoned developer with 8+ years’ experience with maven, Java, spring based micro-service application design and development, experience on messaging paradigms e.g. JMS or Kafka, unit and integration testing framework, and Agile development lifecycle methodology. Skilled in problem-solving, analysis and communication. Experience with Spark and Cassandra, GIT / BitBucket, batch scheduling tools and CI/CD is a plus. 
+
+Experience 
+
+Developer
+ABC Solutions 
+09/2018 – Present 
+
+• Designed and developed offers platform and applications to address business needs, delivering new capabilities to customers and merchants. 
+• Leveraged maven, Java, spring based micro-service applications, messaging paradigms such as JMS and Kafka, and unit and integration testing frameworks. 
+• Applied Agile development lifecycle methodology to successfully complete projects. 
+• Proactively identified gaps in all processes, procedures, monitors, alerts, designs, etc. and provided recommendations on how to resolve.
+
+Senior Developer
+XYZ Solutions 
+08/2014 – 09/2018 
+
+• Developed high quality applications and solutions to address business needs and deliver new capabilities to customers and merchants. 
+• Used Java, Spring framework, and Enterprise Integration Patterns to build and test heterogeneous interfaces across the ecosystem. 
+• Worked closely with business analyst, quality assurance, and project management resources throughout delivery of solutions. 
+• Self-starter, independently took initiative in driving assignments to completion and solving problems. 
+
+Software Engineer 
+123 Solutions 
+03/2011 - 08/2014 
+
+• Designed and developed offers platform and applications to address business needs, delivering new capabilities to customers and merchants. 
+• Used Java, Spring framework, and Enterprise Integration Patterns to build and test heterogeneous interfaces across the ecosystem. 
+• Self-starter, independently took initiative in driving assignments to completion and solving problems. 
+
+Education 
+
+Bachelor of Science in Computer Science 
+University of XYZ, 2010
+
+-------------------------------------------_________________Cover Letter _____________________________________----------------------------------------
+
+
+
+Dear Hiring Manager,
+
+I am writing to apply for the Developer position at ABC Solutions. As a seasoned developer with 8+ years’ experience with maven, Java, spring based micro-service application design and development, experience on messaging paradigms e.g. JMS or Kafka, unit and integration testing framework, and Agile development lifecycle methodology, I am confident that my expertise would make me an asset to your team.
+
+At ABC Solutions, I would bring my experience in designing and developing offers platform and applications to address business needs, delivering new capabilities to customers and merchants. I am well-versed in maven, Java, spring based micro-service applications, messaging paradigms such as JMS and Kafka, and unit and integration testing frameworks. I am also experienced in Agile development lifecycle methodology.
+
+Furthermore, I have experience in proactively identifying gaps in all processes, procedures, monitors, alerts, designs, etc. and providing recommendations on how to resolve. I have also worked closely with business analyst, quality assurance, and project management resources throughout delivery of solutions.
+
+My experience with Spark and Cassandra, GIT / BitBucket, batch scheduling tools and CI/CD is a plus. I am comfortable working independently and also as part of a team. I am a self-starter and take initiative in driving assignments to completion and solving problems.
+
+I am excited to bring my expertise and knowledge to ABC Solutions and look forward to the opportunity to discuss my qualifications in further detail.
+
+Thank you for your consideration.
+
+Sincerely, 
+John Doe
