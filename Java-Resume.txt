@@ -1,0 +1,109 @@
+-------------------------------------------_________________Job Description _____________________________________----------------------------------------
+
+Write a Resume and COVER LETTER for the below Job Description
+
+Job Description
+Software Engineering-Java
+
+﻿As a member of our Software Engineering Group, we look first and foremost for people who are passionate around solving business problems through innovation and engineering practices. You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle, as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals. We embrace a culture of experimentation and constantly strive for improvement and learning. You’ll work in a collaborative, trusting, thought-provoking environment—one that encourages diversity of thought and creative solutions that are in the best interests of our customers globally.
+
+This role requires a wide variety of strengths and capabilities, including:
+
+BS/BA degree or equivalent experience
+Advanced knowledge of application, data, and infrastructure architecture disciplines
+Understanding of architecture and design across all systems
+Working proficiency in developmental toolsets
+Knowledge of industry-wide technology trends and best practices
+Ability to work in large, collaborative teams to achieve organizational goals
+Passionate about building an innovative culture
+Proficiency in one or more modern programming languages
+Understanding of software skills such as business analysis, development, maintenance, and software improvement
+
+About Us
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as any mental health or physical disability needs.
+
+About the Team
+
+Our Corporate Technology team relies on smart, driven people like you to develop applications and provide tech support for all our corporate functions across our network. Your efforts will touch lives all over the financial spectrum and across all our divisions: Global Finance, Corporate Treasury, Risk Management, Human Resources, Compliance, Legal, and within the Corporate Administrative Office. You’ll be part of a team specifically built to meet and exceed our evolving technology needs, as well as our technology controls agenda.
+
+-------------------------------------------_________________Answer :_____________________________________----------------------------------------
+
+-------------------------------------------_________________ Resume:_____________________________________----------------------------------------
+RESUME
+
+John Doe
+123 Main Street, Anytown, USA
+123-456-7890
+john.doe@email.com
+
+Objective
+
+To obtain a Software Engineering role utilizing Java to help develop innovative solutions for customers globally and innovate the corporate technology team.
+
+Summary of Qualifications
+
+• BS/BA degree in Computer Science or related field 
+• Advanced knowledge of application, data, and infrastructure architecture disciplines
+• Working proficiency in developmental toolsets
+• Knowledge of industry-wide technology trends and best practices
+• Ability to work in large, collaborative teams to achieve organizational goals
+• Passionate about building an innovative culture
+• Proficiency in one or more modern programming languages
+• Understanding of software skills such as business analysis, development, maintenance, and software improvement
+
+Related Experience
+
+Software Engineer
+ABC Company, Anytown, USA
+
+• Developed and maintained software applications using Java
+• Collaborated with other developers and stakeholders to ensure successful software development
+• Troubleshot and resolved software issues
+• Developed and implemented software testing processes
+• Assisted with the deployment of new software features
+
+Software Developer
+XYZ Company, Anytown, USA
+
+• Developed software applications using Java
+• Analyzed customer requirements and developed software solutions to meet those needs
+• Wrote and maintained code with an emphasis on quality and efficiency
+• Assisted with software testing and debugging
+• Provided technical support to customers
+
+Education
+
+Bachelor of Science in Computer Science
+Anytown University, Anytown, USA
+
+Skills
+
+• Java
+• C++
+• HTML
+• CSS
+• JavaScript
+• SQL
+
+
+-------------------------------------------_________________Cover Letter _____________________________________----------------------------------------
+
+COVER LETTER
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Software Engineering-Java role with JPMorgan Chase & Co. I believe my experience and skills make me a perfect fit for this position.
+
+As a software engineer and developer, I have extensive experience developing and maintaining software applications using Java. I have collaborated with other developers and stakeholders to ensure successful software development, troubleshoot and resolve software issues, develop and implement software testing processes, and assist with the deployment of new software features. In addition, I have analyzed customer requirements and developed software solutions to meet those needs.
+
+I have a BS/BA degree in Computer Science and am proficient in Java, C++, HTML, CSS, JavaScript, and SQL. I am knowledgeable of application, data, and infrastructure architecture disciplines and have working proficiency in developmental toolsets. I understand software skills such as business analysis, development, maintenance, and software improvement and have knowledge of industry-wide technology trends and best practices. I am passionate about building an innovative culture and have the ability to work in large, collaborative teams to achieve organizational goals.
+
+I believe my experience, skills, and passion make me an ideal fit for the Software Engineering-Java role at JPMorgan Chase & Co. I am highly motivated and eager to contribute to the success of your organization. Please feel free to contact me at your convenience to discuss how I can be a valuable asset to your team.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+John Doe
