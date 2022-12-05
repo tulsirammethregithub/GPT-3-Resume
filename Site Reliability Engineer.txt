@@ -1,0 +1,192 @@
+-------------------------------------------_________________Job Description _____________________________________----------------------------------------
+
+Improve the Below Resume and write a new Resume and COVER LETTER for the Job Description.
+
+Resume : 
+TULSIRAM METHRE
+tulsirammethre@outlook.com | +91-9989301354  | github.com/CodeOnYT
+
+Certifications
+
+AWS Certified Solutions Architect - Associate -   - : Link                             Oct 02, 2021 TO Oct 02, 2024
+Learn about compute, networking, storage, and database AWS services as well as AWS deployment and management services
+Perform tasks such as deploying, managing, and operating workloads on AWS as well as implementing security controls and compliance requirements
+	
+JPMorgan Software Engineering Virtual Experience Program on Forage - Link          November - 2022
+Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies. 
+
+Work Experience
+ 
+Tata Consultancy Services | Site Reliability Engineer	                                                                                   Oct’21 - Present
+Developed custom scripts in BASH and Python to auto repair system downtimes.
+Facilitated administration in Linux systems with operations such as : boot process, file systems, Service Configuration ,  Storage Management  , User and Group Management and essential Commands 
+Resolved CVE issues including patching log4Js Vulnerability and virtual system migration from ubuntu 16.04 to 18.04 and 20.04.
+Develop, test, and debug automated tasks (Apps, Systems, Infrastructure)
+Monitored infrastructure on DataDog by integrating it with Splunk Oncall and PagerDuty.
+Build reports on SQL and manage users on MongoDB with API testing on Postman.
+Performed MongoDB and MySQL Migration running on Ubuntu 18.04 to 20.04 LTS with 0 Downtime.
+Perform Agile StandUp meetings Every Week to analyze old tickets to understand usage patterns to better predict issues and take proactive actions.
+Work with development teams throughout the software life cycle ensuring sustainable software releases and BugFixes to our web app hosted in AWS S3.
+
+Tata Consultancy Services | System Analyst			                                                               Oct’20 - Sept 21     
+Replaced existing load balancing in AWS with Spot Instances and saved 80,000 $ /month for customers.
+Managed both Onprimis and Cloud Infrastructure with more than 2000+ instances/VM's running in AWS and Azure.
+Simplified CNI for customers Kubernetes environment running in AWS.
+Overcame System downtime by troubleshooting network issues such as ping, tracert, tracemon, tcpdump, etc users SLA's time limit.
+Resolved downtime issues on applications running on Apache Tomcat8 and NGINX running on K8(Kubernetes) pods.
+Coding , debugging and deploying automated tasks using Ansible.
+Resolved unfamiliar components/technologies by recognizing the risk factor and RCA(Root Cause Analysis) to formulate a solution with customers best interests in terms of problem impact.
+
+Education
+
+Sphoorthy Engineering College, Jawaharlal Nehru Technical University, Hyderabad, India 	          2016 - 2020 Computer science and engineering | CGPA: - 7.41
+ 
+ 
+ 
+ 
+Managerial Skills
+
+Guided and Mentored team of 4 junior associates in onboarding and managing the project.
+Worked remotely for 2.5 years with appreciation from clients for providing 24/7 Support.
+Built a trustworthy relationship with customers from multiple regions such as china, europe , US which lead to Acquiring more business from customers by 18%.
+Able to speak in 6 Indian Languages and Proficient in English Speaking.
+
+				              		                  
+Skills
+
+AWS | Agile | Java | Python | Jira | JavaScript | Kubernetes | Tomcat | MongoDB | Augmented Reality | MySQL | Git | Azure | Linux
+ 
+Project Work
+AR Piano for Physically Handicap             			          			                                    Feb - 2020 
+Building a Augmented Reality Websites for Physically handicap People.
+Learned Full Stack Web Development and Built a website with HTML, CSS and JavaScript.
+Used OpenCV’s JavaScript Library to recognize Objects using the device web camera : Link
+
+Smart India Hackathon Qualifier for building a Model for Automating the Street Traffic.
+
+Won E-Summit Hackathon Hyderabad -  2018 for most Scalable Idea - AR Tour Guide.
+
+Extracurricular Activities
+Society / Club 1 | Position								                   		        Jun’20 - Present 
+Part of SRI KEERTHANA FOUNDATION as a Volunteer for Helping Elders and underprivileged Kids.
+Make educational video on Youtube , read manga and write content for my website BlueTEXT.in
+
+
+
+Job Description
+Site Reliability Engineer
+
+﻿As a Site Reliability Engineer (SRE), you'll help build a meaningful engineering discipline, combining software and systems to develop creative engineering solutions to operations problems. Much of our support and software development focuses on optimizing existing systems, building infrastructure and reducing work through automation. You’ll join a team of curious problem solvers with a diverse set of perspectives who are thinking big and taking risks. In this environment, you’ll take the lead on relevant projects, supported by an organization that provides the support and mentorship you need to learn and grow. As an SRE, you’ll be focused on running better production applications and systems.
+
+Responsibilities:
+
+Develop, test, and debug automated tasks (Apps, Systems, Infrastructure)
+Build software solutions which improve the application observability, availability and self heals.
+Work with development teams throughout the software life cycle ensuring sustainable software releases
+Perform analytics on previous incidents and usage patterns to better predict issues and take proactive actions
+Lead and participate in performance tests; identify bottlenecks, opportunities for optimization, and capacity demands
+Troubleshoot priority incidents, facilitate blameless post-mortems
+Participate in the 24x7 support coverage whenever required.
+Qualifications:
+
+Bachelor’s degree or equivalent experience in a software engineering discipline
+Mastery in at least two or more software languages Java full stack, Kuberneties, Dockers  with respect to designing, coding, testing, and software delivery
+Adopt in the development of automated tools, systems, and services in multiple technology domains
+Advanced knowledge of one or more infrastructure components (e.g. networking, cloud services, orchestration tools, containerization, compute, and storage systems)
+Proficiency in service-level changes to a system and troubleshooting components.
+Proficiency in monitoring tools like Grafana, Dynatrace, Splunk.
+
+-------------------------------------------_________________Answer :_____________________________________----------------------------------------
+
+-------------------------------------------_________________ Resume:_____________________________________----------------------------------------
+New Resume:
+
+NAME: TULSIRAM METHRE
+EMAIL: tulsirammethre@outlook.com
+PHONE: +91-9989301354 
+GITHUB: github.com/CodeOnYT
+
+Certifications
+
+AWS Certified Solutions Architect - Associate: Link                             Oct 02, 2021 to Oct 02, 2024
+•Learned about compute, networking, storage, and database AWS services as well as AWS deployment and management services
+•Performed tasks such as deploying, managing, and operating workloads on AWS as well as implementing security controls and compliance requirements
+	
+JPMorgan Software Engineering Virtual Experience Program on Forage - Link          November - 2022
+•Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies. 
+
+Work Experience
+ 
+Tata Consultancy Services | Site Reliability Engineer	                                                                                   Oct’21 - Present
+•Developed custom scripts in BASH and Python to auto repair system downtimes.
+•Facilitated administration in Linux systems with operations such as boot process, file systems, Service Configuration, Storage Management, User and Group Management, and essential Commands 
+•Resolved CVE issues including patching log4Js Vulnerability and virtual system migration from Ubuntu 16.04 to 18.04 and 20.04.
+•Develop, test, and debug automated tasks (Apps, Systems, Infrastructure)
+•Monitored infrastructure on DataDog by integrating it with Splunk Oncall and PagerDuty.
+•Built reports on SQL and managed users on MongoDB with API testing on Postman.
+•Performed MongoDB and MySQL Migration running on Ubuntu 18.04 to 20.04 LTS with 0 Downtime.
+•Perform Agile StandUp meetings Every Week to analyze old tickets to understand usage patterns to better predict issues and take proactive actions.
+•Work with development teams throughout the software life cycle ensuring sustainable software releases and BugFixes to our web app hosted in AWS S3.
+
+Tata Consultancy Services | System Analyst			                                                               Oct’20 - Sept 21     
+•Replaced existing load balancing in AWS with Spot Instances and saved 80,000 $ /month for customers.
+•Managed both Onprimis and Cloud Infrastructure with more than 2000+ instances/VM's running in AWS and Azure.
+•Simplified CNI for customers Kubernetes environment running in AWS.
+•Overcame System downtime by troubleshooting network issues such as ping, tracert, tracemon, tcpdump, etc users SLA's time limit.
+•Resolved downtime issues on applications running on Apache Tomcat8 and NGINX running on K8(Kubernetes) pods.
+•Coding , debugging and deploying automated tasks using Ansible.
+•Resolved unfamiliar components/technologies by recognizing the risk factor and RCA(Root Cause Analysis) to formulate a solution with customers best interests in terms of problem impact.
+
+Education
+
+Sphoorthy Engineering College, Jawaharlal Nehru Technical University, Hyderabad, India 	          2016 - 2020 Computer science and engineering | CGPA: - 7.41
+ 
+ 
+ 
+Managerial Skills
+
+•Guided and Mentored team of 4 junior associates in onboarding and managing the project.
+•Worked remotely for 2.5 years with appreciation from clients for providing 24/7 Support.
+•Built a trustworthy relationship with customers from multiple regions such as china, europe , US which lead to Acquiring more business from customers by 18%.
+•Able to speak in 6 Indian Languages and Proficient in English Speaking.
+
+				              		                  
+Skills
+
+AWS | Agile | Java | Python | Jira | JavaScript | Kubernetes | Tomcat | MongoDB | Augmented Reality | MySQL | Git | Azure | Linux
+ 
+Project Work
+•AR Piano for Physically Handicap             			          			                                    Feb - 2020 
+•Building a Augmented Reality Websites for Physically handicap People.
+•Learned Full Stack Web Development and Built a website with HTML, CSS and JavaScript.
+•Used OpenCV’s JavaScript Library to recognize Objects using the device web camera : Link
+
+•Smart India Hackathon Qualifier for building a Model for Automating the Street Traffic.
+
+•Won E-Summit Hackathon Hyderabad -  2018 for most Scalable Idea - AR Tour Guide.
+
+Extracurricular Activities
+•Society / Club 1 | Position								                   		        Jun’20 - Present 
+•Part of SRI KEERTHANA FOUNDATION as a Volunteer for Helping Elders and underprivileged Kids.
+•Make educational video on Youtube , read manga and write content for my website BlueTEXT.in
+
+
+-------------------------------------------_________________Cover Letter _____________________________________----------------------------------------
+COVER LETTER
+
+Dear Hiring Manager,
+
+I am writing to apply for the position of Site Reliability Engineer at your company. As a certified AWS solutions architect, I believe I have the skills and experience you are seeking.
+
+I have worked for Tata Consultancy Services as a System Analyst and a Site Reliability Engineer for the past year. In this role, I have been responsible for developing, testing, and debugging automated tasks, building software solutions, and performing analytics on incidents. My experience also includes working with development teams throughout the software life cycle, leading and participating in performance tests, and troubleshooting priority incidents.
+
+I also have a Bachelor’s degree in Computer Science and Engineering from Sphoorthy Engineering College, Jawaharlal Nehru Technical University. I have mastered two or more software languages such as Java full stack, Kubernetes, and Dockers. I have a strong understanding of infrastructure components such as networking, cloud services, orchestration tools, containerization, compute, and storage systems. I am proficient in service-level changes to a system and troubleshooting components, and I have experience with monitoring tools such as Grafana, Dynatrace, and Splunk.
+
+My interpersonal and managerial skills make me an ideal candidate for this position. I have mentored a team of four junior associates and worked remotely for two and a half years. I have also built relationships with customers from multiple regions, resulting in 18% more business from these customers. In addition, I am able to speak in six Indian languages and proficient in English.
+
+I am confident that my skills and experience make me the perfect candidate for the position of Site Reliability Engineer. I look forward to discussing my qualifications further with you.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Tulsiram Methre
