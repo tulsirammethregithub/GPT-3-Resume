@@ -1,0 +1,101 @@
+-------------------------------------------_________________Job Description _____________________________________----------------------------------------
+
+Write a resume for the following job requirements :
+
+BS/BA degree or equivalent experience.
+Advanced knowledge of application, data, and infrastructure architecture disciplines.
+Understanding of architecture and design across all systems.
+Working proficiency in developmental toolsets.
+Knowledge of industry-wide technology trends and best practices.
+Ability to work in large, collaborative teams to achieve organizational goals.
+Passionate about building an innovative culture.
+Proficiency in one or more modern programming languages.
+Understanding of software skills such as business analysis, development, maintenance, and software improvement.
+
+
+-------------------------------------------_________________Answer :_____________________________________----------------------------------------
+
+John Doe 
+
+Objective
+
+To obtain a position as an Application, Data, and Infrastructure Architect with a focus on developing innovative solutions and fostering an innovative culture.
+
+Experience
+
+ABC Solutions, Inc.
+Application, Data, and Infrastructure Architect, 2018-Present
+• Designed and implemented application, data, and infrastructure architectures in support of organizational goals.
+• Developed and maintained systems that enabled the organization to stay competitive in the industry.
+• Collaborated with other teams to ensure that the organization was utilizing best practices and modern technologies.
+• Created an innovative culture by introducing new strategies and techniques to optimize organizational processes.
+
+XYZ Technologies, Inc.
+Software Engineer, 2015-2018
+• Developed and maintained software applications according to customer requirements.
+• Used various programming languages to create and maintain software.
+• Analyzed user requirements and current systems to develop and implement feasible solutions.
+• Conducted business analysis and software improvement processes to ensure optimal performance.
+
+Education
+
+Bachelor of Science in Computer Science, ABC University, 2016
+
+Skills
+
+• Advanced knowledge of application, data, and infrastructure architecture disciplines
+• Working proficiency in developmental toolsets
+• Knowledge of industry-wide technology trends and
+
+
+-------------------------------------------_________________Job Description _____________________________________----------------------------------------
+
+
+﻿As a member of our Software Engineering Group, we look first and foremost for people who are passionate around solving business problems through innovation and engineering practices. You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle, as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals. We embrace a culture of experimentation and constantly strive for improvement and learning. You’ll work in a collaborative, trusting, thought-provoking environment—one that encourages diversity of thought and creative solutions that are in the best interests of our customers globally.
+
+Write a resume for the following job requirements :
+
+BS/BA degree or equivalent experience.
+Advanced knowledge of application, data, and infrastructure architecture disciplines.
+Understanding of architecture and design across all systems.
+Working proficiency in developmental toolsets.
+Knowledge of industry-wide technology trends and best practices.
+Ability to work in large, collaborative teams to achieve organizational goals.
+Passionate about building an innovative culture.
+Proficiency in one or more modern programming languages.
+Understanding of software skills such as business analysis, development, maintenance, and software improvement.
+
+
+-------------------------------------------_________________Answer :_____________________________________----------------------------------------
+
+
+Brianna White
+Objective
+To join a Software Engineering Group and apply my knowledge and expertise of software development lifecycle to solve business problems through innovation and engineering practices.
+
+Education
+BS/BA degree in Computer Science, University of Michigan, 2021
+
+Skills
+Advanced knowledge of application, data, and infrastructure architecture disciplines
+Proficiency in one or more modern programming languages
+Working proficiency in developmental toolsets
+Understanding of architecture and design across all systems
+Understanding of software skills such as business analysis, development, maintenance, and software improvement
+Knowledge of industry-wide technology trends and best practices
+
+Experience
+Software Engineer Intern, ABC Solutions, 2020
+Collaborated with a team of 10 engineers to develop a web application
+Developed a REST API using Node.js
+Implemented automated testing using Jest
+
+Software Developer, XYZ Solutions, 2018-2019
+Assisted in the design, development and maintenance of web applications
+Implemented front-end features using HTML, CSS and JavaScript
+Integrated software components into a full stack solution
+
+Awards & Certifications
+Certified Software Developer, Institute of Software Development, 2020
+Certified Web Developer, Institute of Web Development, 2019
+Best Software Developer Award
